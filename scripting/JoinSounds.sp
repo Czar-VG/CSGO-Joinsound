@@ -10,6 +10,7 @@
 
 Handle Cvar_filepath;
 char song[512];
+
 public Plugin myinfo = 
 {
 	name = "Join Sounds",
